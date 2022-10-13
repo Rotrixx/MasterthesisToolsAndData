@@ -1,0 +1,874 @@
+{
+  "$type": "ComputerProfile",
+  "SchemaVersion": 2019115740,
+  "IsEntitySchemaChanged": false,
+  "SystemCreationTime": "2022-06-10T13:35:05.6639891Z",
+  "SystemUpdateTime": "2022-09-21T12:47:01.4760169Z",
+  "Types": [
+    "ComputerProfile",
+    "AccountProfile",
+    "SecurityPrincipalProfile",
+    "UniqueEntityProfile",
+    "Profile",
+    "Entity",
+    "Object"
+  ],
+  "id": "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+  "SystemResetTime": null,
+  "IsEmpty": false,
+  "AccessedResourceAccountIdToTimeMapping": [
+    {
+      "Key": "421080c9-9b3c-4746-8d35-a5154a779608",
+      "Value": "2022-09-16T13:31:38.353698Z"
+    },
+    {
+      "Key": "ce057962-8f66-4f95-9e95-a9585a41069e",
+      "Value": "2022-09-16T13:31:38.253587Z"
+    },
+    {
+      "Key": "357fac6e-0e5b-4dd9-82e1-13b594c8c2a5",
+      "Value": "2022-09-16T13:31:38.20832Z"
+    },
+    {
+      "Key": "0ca51cd3-1856-45be-897b-e2bbac4084be",
+      "Value": "2022-09-16T13:31:38.349011Z"
+    },
+    {
+      "Key": "5e8847c8-8ee7-4bf1-a93e-2435c8cf0687",
+      "Value": "2022-09-16T13:31:38.226094Z"
+    },
+    {
+      "Key": "0f7373ff-2a01-4a2b-bb4e-3ab7da5ef580",
+      "Value": "2022-09-16T13:31:38.338867Z"
+    },
+    {
+      "Key": "6c296813-564b-421e-97f8-326d47b1f922",
+      "Value": "2022-09-16T13:31:38.398882Z"
+    },
+    {
+      "Key": "5337e846-5e11-4285-b27e-a4815dbacbd3",
+      "Value": "2022-09-16T13:31:38.279081Z"
+    },
+    {
+      "Key": "d41cf7ca-380a-479e-b8de-262e2bb59892",
+      "Value": "2022-09-16T13:31:38.270361Z"
+    },
+    {
+      "Key": "f07d5246-7775-40e2-98c4-a94207b9bbc0",
+      "Value": "2022-09-16T13:31:38.212392Z"
+    },
+    {
+      "Key": "e7f2063e-ac50-42c7-bb93-de21df792ac6",
+      "Value": "2022-09-16T13:31:38.392814Z"
+    },
+    {
+      "Key": "62518c34-02ca-4c06-8e12-09c883cc0c94",
+      "Value": "2022-09-16T13:31:38.204059Z"
+    },
+    {
+      "Key": "57e11efe-4e2a-4144-9433-bc489cbfbe49",
+      "Value": "2022-09-16T13:31:38.291956Z"
+    },
+    {
+      "Key": "abd4de60-e5cb-406c-a240-f9737f1b1419",
+      "Value": "2022-09-16T13:31:38.411648Z"
+    },
+    {
+      "Key": "9c95ca9c-e9e2-4fd4-b99a-d647b4d7e209",
+      "Value": "2022-09-16T13:31:38.304738Z"
+    },
+    {
+      "Key": "e4bf0afa-e994-4a5f-b8cc-3fafe6961a85",
+      "Value": "2022-09-16T13:31:38.312702Z"
+    },
+    {
+      "Key": "1b46e666-3870-4044-bdf4-351ab152b5a9",
+      "Value": "2022-09-16T13:31:38.384388Z"
+    },
+    {
+      "Key": "8ba27760-1986-41d5-a77f-09c1f4a14d81",
+      "Value": "2022-09-16T13:31:38.283206Z"
+    },
+    {
+      "Key": "c5bd2085-4378-43d6-a806-ca6600780bd6",
+      "Value": "2022-09-16T13:31:38.308645Z"
+    },
+    {
+      "Key": "908f6375-2408-4773-bbb0-77aad2ac1f99",
+      "Value": "2022-09-16T13:31:38.374441Z"
+    },
+    {
+      "Key": "4bd94994-be7d-418f-8f0f-beef41b67e7d",
+      "Value": "2022-09-16T13:31:38.274965Z"
+    },
+    {
+      "Key": "f050bee5-79b6-4eb0-86be-b6f1c5ce7ae6",
+      "Value": "2022-09-16T13:31:38.406874Z"
+    },
+    {
+      "Key": "e8e9fa76-b9cf-4ac0-9268-9317da4ed01a",
+      "Value": "2022-09-16T13:31:38.378777Z"
+    },
+    {
+      "Key": "de460c23-2e44-4c2f-b539-f18decf75e03",
+      "Value": "2022-09-16T13:31:38.370601Z"
+    },
+    {
+      "Key": "b2b68139-3dde-4579-b798-c29bb10228c9",
+      "Value": "2022-09-16T13:31:38.235584Z"
+    },
+    {
+      "Key": "2b63b46c-e4ae-48ac-b4f9-12b14a377bce",
+      "Value": "2022-09-16T13:31:38.416585Z"
+    },
+    {
+      "Key": "2f3fa6c1-b9cf-4586-b3ff-4048298c3645",
+      "Value": "2022-09-16T13:31:38.230373Z"
+    },
+    {
+      "Key": "b652a462-c6e0-42c8-bfeb-81e1582dc269",
+      "Value": "2022-09-16T13:31:38.220195Z"
+    },
+    {
+      "Key": "13fad72b-f89f-4d7f-a875-e9271fc372a1",
+      "Value": "2022-09-16T13:31:38.249274Z"
+    },
+    {
+      "Key": "20356e84-23c1-4863-a475-ccd1b21d1334",
+      "Value": "2022-09-16T13:31:38.216443Z"
+    },
+    {
+      "Key": "37456c11-6105-465c-95bc-55bb17cdd55b",
+      "Value": "2022-09-16T13:31:38.325389Z"
+    },
+    {
+      "Key": "8c9d73fe-c2b8-457d-875d-4f5abd06506b",
+      "Value": "2022-09-16T13:31:38.261285Z"
+    },
+    {
+      "Key": "96f06f13-9c5e-429d-a2e1-4df6b94e6d04",
+      "Value": "2022-09-16T13:31:38.330362Z"
+    },
+    {
+      "Key": "792c0573-dad0-417e-9655-f000a88d83b1",
+      "Value": "2022-09-16T13:31:38.343974Z"
+    },
+    {
+      "Key": "83b4e1bf-e482-4f7d-bbd7-9152f914d223",
+      "Value": "2022-09-16T13:31:38.257629Z"
+    },
+    {
+      "Key": "df574412-67e0-4928-a5ac-f603ab7a826e",
+      "Value": "2022-09-16T13:31:38.357604Z"
+    },
+    {
+      "Key": "4cd2b97c-c3fc-44e3-a89a-938f12f102db",
+      "Value": "2022-09-16T13:31:38.296051Z"
+    },
+    {
+      "Key": "aae8754b-8357-4fde-84fd-63872c9a2454",
+      "Value": "2022-09-16T13:31:38.388456Z"
+    },
+    {
+      "Key": "5d84f085-1640-42b1-a42f-3d7ffe8f9d98",
+      "Value": "2022-09-16T13:31:38.334493Z"
+    },
+    {
+      "Key": "73563585-32d6-4780-a752-f8dd3ec718e5",
+      "Value": "2022-09-21T09:10:36.544426Z"
+    },
+    {
+      "Key": "4545c277-3df4-4d30-81dc-63de444c82c8",
+      "Value": "2022-09-16T13:31:38.366264Z"
+    },
+    {
+      "Key": "7bd32892-9010-43ac-b987-e5e288596afc",
+      "Value": "2022-09-16T13:31:38.317067Z"
+    },
+    {
+      "Key": "cffdded3-6c1f-4bdb-8e57-44c5fd9d7ea8",
+      "Value": "2022-09-16T13:31:38.287406Z"
+    },
+    {
+      "Key": "711790c7-893f-4cc3-b02d-72b57bfc3040",
+      "Value": "2022-09-16T13:31:38.240259Z"
+    },
+    {
+      "Key": "c776dca0-d8db-483f-a0d2-3e7740167383",
+      "Value": "2022-09-16T13:31:38.24539Z"
+    },
+    {
+      "Key": "1405dd8b-a442-4588-9b1e-5ff80bd174d6",
+      "Value": "2022-09-16T13:31:38.265393Z"
+    },
+    {
+      "Key": "2e665d99-0417-417c-a5e2-0575a3c7ad98",
+      "Value": "2022-09-16T13:31:38.361575Z"
+    }
+  ],
+  "AesSupportTime": "2022-06-10T13:44:52.778712Z",
+  "DateToConstrainedDelegationResourceAccountAndDelegatedSensitiveAccountIdsMapping": [],
+  "DateToResourceBasedConstrainedDelegationSourceAccountAndDelegatedSensitiveAccountIdsMapping": [],
+  "DateToLastGroupMembershipChangeEventMapping": [],
+  "DateToVpnKnownSourceComputerLocationIdToConfidenceLevelsMapping": [],
+  "DateToVpnLocationIdToConfidenceLevelsMapping": [],
+  "DateToVpnSourceComputerIdsMapping": [],
+  "DateToNtlmSourceComputerIdsMapping": [
+    {
+      "Key": "2022-08-31T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-09T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    }
+  ],
+  "DateToKerberosSourceComputerIdsMapping": [
+    {
+      "Key": "2022-09-05T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-12T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-08T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-15T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-01T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-21T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-04T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-08-31T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-19T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-07T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-10T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-06T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-13T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-09T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-11T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-18T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-02T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-17T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-03T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-14T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-16T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-20T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    }
+  ],
+  "FirstCertificateUsageTime": null,
+  "FirstConstrainedDelegationDate": null,
+  "FirstResourceBasedConstrainedDelegationDate": null,
+  "InteractiveLogonDates": [],
+  "KerberosTicketPartialHashToFirstKerberosTicketUsageDataMapping": [
+    {
+      "Key": 1252410293552542882,
+      "Value": {
+        "$type": "KerberosTicketData",
+        "SensorTime": "2022-07-18T17:42:00Z",
+        "DomainTimeOffset": 0,
+        "ProfilingTimeOffset": 2
+      }
+    },
+    {
+      "Key": -3524499927168996739,
+      "Value": {
+        "$type": "KerberosTicketData",
+        "SensorTime": "2022-07-19T04:53:00Z",
+        "DomainTimeOffset": 0,
+        "ProfilingTimeOffset": 2
+      }
+    },
+    {
+      "Key": 3143880921314846814,
+      "Value": {
+        "$type": "KerberosTicketData",
+        "SensorTime": "2022-08-02T23:08:00Z",
+        "DomainTimeOffset": 0,
+        "ProfilingTimeOffset": 2
+      }
+    },
+    {
+      "Key": -7879713380587701161,
+      "Value": {
+        "$type": "KerberosTicketData",
+        "SensorTime": "2022-07-27T10:13:00Z",
+        "DomainTimeOffset": 0,
+        "ProfilingTimeOffset": 2
+      }
+    },
+    {
+      "Key": -1263164361199168934,
+      "Value": {
+        "$type": "KerberosTicketData",
+        "SensorTime": "2022-07-27T11:27:00Z",
+        "DomainTimeOffset": 0,
+        "ProfilingTimeOffset": 2
+      }
+    },
+    {
+      "Key": -5270885015542323831,
+      "Value": {
+        "$type": "KerberosTicketData",
+        "SensorTime": "2022-09-07T14:44:00Z",
+        "DomainTimeOffset": 0,
+        "ProfilingTimeOffset": 61
+      }
+    },
+    {
+      "Key": -5268595122457569264,
+      "Value": {
+        "$type": "KerberosTicketData",
+        "SensorTime": "2022-07-19T00:28:00Z",
+        "DomainTimeOffset": 0,
+        "ProfilingTimeOffset": 2
+      }
+    },
+    {
+      "Key": -3477824549419995365,
+      "Value": {
+        "$type": "KerberosTicketData",
+        "SensorTime": "2022-09-07T12:31:00Z",
+        "DomainTimeOffset": 0,
+        "ProfilingTimeOffset": 99
+      }
+    }
+  ],
+  "KerberosTicketSizeToTimeMapping": [],
+  "LastAesUseTime": "2022-09-21T07:41:32.8591485Z",
+  "LearningStartTime": "2022-06-10T13:34:52.531866Z",
+  "LocationIdToTimeMapping": [],
+  "ModifiedDirectoryObjectIdAndActiveDirectoryRightToTimeMapping": [],
+  "SensitiveGroupIdToMembershipChangeDatesMapping": [],
+  "SuccessfulDirectoryServicesReplicationComputerIdAndDomainNameToDatesMapping": [],
+  "AuthenticationActivityDates": [
+    "2022-09-01T00:00:00Z",
+    "2022-09-08T00:00:00Z",
+    "2022-09-14T00:00:00Z",
+    "2022-09-16T00:00:00Z",
+    "2022-09-20T00:00:00Z",
+    "2022-09-21T00:00:00Z"
+  ],
+  "DateToDnsQueryTypeToQueryNamesMapping": [],
+  "DateToEncryptionDowngradeDataMapping": [
+    {
+      "Key": "2022-09-17T00:00:00Z",
+      "Value": {
+        "$type": "EncryptionDowngradeData",
+        "IsKerberosEncryptedTimestampEncryptionTypeAesOnly": true,
+        "IsKerberosTgtEncryptionTypeAesOnly": true
+      }
+    },
+    {
+      "Key": "2022-09-19T00:00:00Z",
+      "Value": {
+        "$type": "EncryptionDowngradeData",
+        "IsKerberosEncryptedTimestampEncryptionTypeAesOnly": true,
+        "IsKerberosTgtEncryptionTypeAesOnly": true
+      }
+    },
+    {
+      "Key": "2022-09-16T00:00:00Z",
+      "Value": {
+        "$type": "EncryptionDowngradeData",
+        "IsKerberosEncryptedTimestampEncryptionTypeAesOnly": true,
+        "IsKerberosTgtEncryptionTypeAesOnly": true
+      }
+    },
+    {
+      "Key": "2022-09-18T00:00:00Z",
+      "Value": {
+        "$type": "EncryptionDowngradeData",
+        "IsKerberosEncryptedTimestampEncryptionTypeAesOnly": true,
+        "IsKerberosTgtEncryptionTypeAesOnly": true
+      }
+    },
+    {
+      "Key": "2022-09-21T00:00:00Z",
+      "Value": {
+        "$type": "EncryptionDowngradeData",
+        "IsKerberosEncryptedTimestampEncryptionTypeAesOnly": true,
+        "IsKerberosTgtEncryptionTypeAesOnly": true
+      }
+    },
+    {
+      "Key": "2022-09-20T00:00:00Z",
+      "Value": {
+        "$type": "EncryptionDowngradeData",
+        "IsKerberosEncryptedTimestampEncryptionTypeAesOnly": true,
+        "IsKerberosTgtEncryptionTypeAesOnly": true
+      }
+    }
+  ],
+  "DateToKerberosErrorToSourceAccountIdsMapping": [
+    {
+      "Key": "2022-09-20T00:00:00Z",
+      "Value": [
+        {
+          "Key": "Success",
+          "Value": [
+            "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+            "f94e3649-3718-4d71-84bd-ad74353abcb9"
+          ]
+        },
+        {
+          "Key": "PreauthenticationRequired",
+          "Value": [
+            "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+            "f94e3649-3718-4d71-84bd-ad74353abcb9"
+          ]
+        }
+      ]
+    },
+    {
+      "Key": "2022-09-21T00:00:00Z",
+      "Value": [
+        {
+          "Key": "Success",
+          "Value": [
+            "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+            "f94e3649-3718-4d71-84bd-ad74353abcb9"
+          ]
+        },
+        {
+          "Key": "PreauthenticationRequired",
+          "Value": [
+            "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+            "f94e3649-3718-4d71-84bd-ad74353abcb9"
+          ]
+        }
+      ]
+    }
+  ],
+  "DateToLdapSearchEnumerationQueryHashesMapping": [
+    {
+      "Key": "2022-09-14T00:00:00Z",
+      "Value": [
+        -241972962,
+        240638411,
+        1666354654,
+        -1728048443,
+        -1578735071
+      ]
+    },
+    {
+      "Key": "2022-09-16T00:00:00Z",
+      "Value": [
+        -241972962,
+        240638411,
+        -1728048443,
+        1666354654,
+        -1578735071,
+        -1172811098
+      ]
+    }
+  ],
+  "DateToLdapSearchQueriedGroupsIdsMapping": [
+    {
+      "Key": "2022-09-14T00:00:00Z",
+      "Value": [
+        "767fdf8a-4e67-4907-a598-a32b3ca55ade",
+        "ec4ffff0-ab6b-4dd6-bd36-299befbc1c7a",
+        "f9830516-8cab-4021-a791-b05e9ce0ced4",
+        "28bf91fd-5558-4fcd-9ea5-74ce6e3792d2",
+        "93db84c0-1ce8-4c2b-82d2-e5e2dc049603",
+        "1e6bb64f-2451-4147-b815-95188740c524",
+        "22d0057b-ab93-4d92-9fd3-441fcbb55173",
+        "d1f8b4e6-b64a-4222-86f4-08d53a8ba49c",
+        "257f874d-4de0-48e6-9351-66d3a8922ddc",
+        "a6f376b9-9638-41d8-b0c9-4d31d7c6ea39",
+        "62bb83c3-be6d-4639-a867-10be0f7a68d9"
+      ]
+    },
+    {
+      "Key": "2022-09-16T00:00:00Z",
+      "Value": [
+        "28bf91fd-5558-4fcd-9ea5-74ce6e3792d2"
+      ]
+    }
+  ],
+  "DateToLdapSearchQueriedSensitiveGroupsIdsMapping": [
+    {
+      "Key": "2022-09-14T00:00:00Z",
+      "Value": [
+        "767fdf8a-4e67-4907-a598-a32b3ca55ade",
+        "ec4ffff0-ab6b-4dd6-bd36-299befbc1c7a",
+        "f9830516-8cab-4021-a791-b05e9ce0ced4",
+        "28bf91fd-5558-4fcd-9ea5-74ce6e3792d2",
+        "93db84c0-1ce8-4c2b-82d2-e5e2dc049603",
+        "1e6bb64f-2451-4147-b815-95188740c524",
+        "22d0057b-ab93-4d92-9fd3-441fcbb55173",
+        "d1f8b4e6-b64a-4222-86f4-08d53a8ba49c",
+        "257f874d-4de0-48e6-9351-66d3a8922ddc",
+        "a6f376b9-9638-41d8-b0c9-4d31d7c6ea39"
+      ]
+    },
+    {
+      "Key": "2022-09-16T00:00:00Z",
+      "Value": [
+        "28bf91fd-5558-4fcd-9ea5-74ce6e3792d2"
+      ]
+    }
+  ],
+  "DateToLocalAdministratorIdsMapping": [],
+  "DateToProtocolToNtErrorCodeToSourceAccountIdsMapping": [],
+  "DateToProtocolToClientPrincipalUnknownDataMapping": [],
+  "DateToResourceBasedConstrainedDelegationResourcesMapping": [],
+  "DateToSamrQueriesMapping": [
+    {
+      "Key": "2022-06-26T00:00:00Z",
+      "Value": [
+        "af906817-4e1e-4e8f-9519-0daf3b326f12 administrator"
+      ]
+    },
+    {
+      "Key": "2022-07-13T00:00:00Z",
+      "Value": [
+        "af906817-4e1e-4e8f-9519-0daf3b326f12 administrator"
+      ]
+    },
+    {
+      "Key": "2022-09-16T00:00:00Z",
+      "Value": [
+        "af906817-4e1e-4e8f-9519-0daf3b326f12 SamrEnumerateUsers",
+        "af906817-4e1e-4e8f-9519-0daf3b326f12 SamrQueryDisplayInformation",
+        "af906817-4e1e-4e8f-9519-0daf3b326f12 cl-h79-distlist1"
+      ]
+    },
+    {
+      "Key": "2022-07-02T00:00:00Z",
+      "Value": [
+        "af906817-4e1e-4e8f-9519-0daf3b326f12 administrator"
+      ]
+    },
+    {
+      "Key": "2022-09-21T00:00:00Z",
+      "Value": [
+        "af906817-4e1e-4e8f-9519-0daf3b326f12 SamrEnumerateUsers",
+        "af906817-4e1e-4e8f-9519-0daf3b326f12 SamrQueryDisplayInformation",
+        "af906817-4e1e-4e8f-9519-0daf3b326f12 cl-h79-distlist1"
+      ]
+    }
+  ],
+  "DateToSourceAccountIdsMapping": [
+    {
+      "Key": "2022-09-17T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+        "f94e3649-3718-4d71-84bd-ad74353abcb9"
+      ]
+    },
+    {
+      "Key": "2022-09-19T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+        "f94e3649-3718-4d71-84bd-ad74353abcb9"
+      ]
+    },
+    {
+      "Key": "2022-09-15T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527"
+      ]
+    },
+    {
+      "Key": "2022-09-18T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+        "f94e3649-3718-4d71-84bd-ad74353abcb9"
+      ]
+    },
+    {
+      "Key": "2022-09-16T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+        "f94e3649-3718-4d71-84bd-ad74353abcb9"
+      ]
+    },
+    {
+      "Key": "2022-09-21T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+        "f94e3649-3718-4d71-84bd-ad74353abcb9"
+      ]
+    },
+    {
+      "Key": "2022-09-20T00:00:00Z",
+      "Value": [
+        "5b2da6ba-da40-4956-86a5-a0a5a9f69527",
+        "f94e3649-3718-4d71-84bd-ad74353abcb9"
+      ]
+    }
+  ],
+  "DateToSourceUserIdToProtocolToAuthenticationActivityDataMapping": [],
+  "DateToTcpFingerprintOperatingSystemTypeMapping": [
+    {
+      "Key": "2022-09-17T00:00:00Z",
+      "Value": [
+        ["Windows10"]
+      ]
+    },
+    {
+      "Key": "2022-09-19T00:00:00Z",
+      "Value": [
+        ["Windows10"]
+      ]
+    },
+    {
+      "Key": "2022-09-15T00:00:00Z",
+      "Value": [
+        ["Windows10"]
+      ]
+    },
+    {
+      "Key": "2022-09-18T00:00:00Z",
+      "Value": [
+        ["Windows10"]
+      ]
+    },
+    {
+      "Key": "2022-09-16T00:00:00Z",
+      "Value": [
+        ["Windows10"]
+      ]
+    },
+    {
+      "Key": "2022-09-21T00:00:00Z",
+      "Value": [
+        ["Windows10"]
+      ]
+    },
+    {
+      "Key": "2022-09-20T00:00:00Z",
+      "Value": [
+        ["Windows10"]
+      ]
+    }
+  ],
+  "DateToWrongPasswordCountBucketToUserCountMapping": [
+    {
+      "Key": "2022-07-07T00:00:00Z",
+      "Value": [
+        {
+          "Key": 1,
+          "Value": 1
+        }
+      ]
+    },
+    {
+      "Key": "2022-06-23T00:00:00Z",
+      "Value": []
+    },
+    {
+      "Key": "2022-07-02T00:00:00Z",
+      "Value": []
+    },
+    {
+      "Key": "2022-07-04T00:00:00Z",
+      "Value": []
+    }
+  ],
+  "DnsZoneTransferQueryingDates": [],
+  "DnsHighRateQueryingDates": [],
+  "HourToSourceAccountIdToLdapBruteForceDataMapping": [],
+  "HourToSourceAccountPasswordHashToSourceAccountIdsMapping": [],
+  "IsDelegationServer": false,
+  "InteractiveLogonSourceAccountIdToTimeMapping": [
+    {
+      "Key": "f94e3649-3718-4d71-84bd-ad74353abcb9",
+      "Value": "2022-09-21T12:33:38.798745Z"
+    },
+    {
+      "Key": "652eb879-6548-4a24-853f-6a4563cd4b68",
+      "Value": "2022-07-07T12:12:33.30716Z"
+    }
+  ],
+  "IpAddressToTimeMapping": [
+    {
+      "Key": "141.55.112.81",
+      "Value": "2022-09-21T12:33:38.798745Z"
+    }
+  ],
+  "LdapSearchLearningStartTime": "2022-07-04T11:21:46.6576315Z",
+  "LogonCertificateThumbprintToTimeMapping": [],
+  "LogonSourceAccountIdToTimeMapping": [
+    {
+      "Key": "f94e3649-3718-4d71-84bd-ad74353abcb9",
+      "Value": "2022-09-21T12:33:38.798745Z"
+    },
+    {
+      "Key": "652eb879-6548-4a24-853f-6a4563cd4b68",
+      "Value": "2022-07-07T12:12:33.30716Z"
+    }
+  ],
+  "MonthToSourceUserIdToBruteForceExclusionDataMapping": [
+    {
+      "Key": "2022-06-01T00:00:00Z",
+      "Value": [
+        {
+          "Key": "652eb879-6548-4a24-853f-6a4563cd4b68",
+          "Value": {
+            "$type": "BruteForceExclusionData",
+            "Reason": "SuccessfulLogin",
+            "Time": "2022-06-14T08:23:23.0917865Z"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "2022-08-01T00:00:00Z",
+      "Value": [
+        {
+          "Key": "f94e3649-3718-4d71-84bd-ad74353abcb9",
+          "Value": {
+            "$type": "BruteForceExclusionData",
+            "Reason": "SuccessfulLogin",
+            "Time": "2022-08-25T11:28:29.0586172Z"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "2022-09-01T00:00:00Z",
+      "Value": [
+        {
+          "Key": "f94e3649-3718-4d71-84bd-ad74353abcb9",
+          "Value": {
+            "$type": "BruteForceExclusionData",
+            "Reason": "SuccessfulLogin",
+            "Time": "2022-09-01T12:05:59.9240309Z"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "2022-07-01T00:00:00Z",
+      "Value": [
+        {
+          "Key": "f94e3649-3718-4d71-84bd-ad74353abcb9",
+          "Value": {
+            "$type": "BruteForceExclusionData",
+            "Reason": "SuccessfulLogin",
+            "Time": "2022-07-04T10:06:08.402576Z"
+          }
+        },
+        {
+          "Key": "652eb879-6548-4a24-853f-6a4563cd4b68",
+          "Value": {
+            "$type": "BruteForceExclusionData",
+            "Reason": "SuccessfulLogin",
+            "Time": "2022-07-02T07:51:54.8614005Z"
+          }
+        }
+      ]
+    }
+  ],
+  "MonthToVpnSourceAccountIdsMapping": [],
+  "ServiceCreationSourceAccountIdToHoursMapping": [],
+  "WrongPasswordDates": []
+}
